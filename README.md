@@ -22,7 +22,7 @@ Bu projeyi çalıştırmadan önce sisteminizde aşağıdaki araçların kurulu 
 - Git
 
 ## Kullanım
-###Ana Sayfa:### Tüm blog içeriklerini listeler.
+###Ana Sayfa:Tüm blog içeriklerini listeler.<br>
 Kategoriler: Belirli bir kategoriyi seçerek içerikleri filtreleyebilirsiniz.
 Yönetim Paneli: İçerikleri yönetmek için /admin yolunu kullanabilirsiniz.
 Katkıda Bulunma
