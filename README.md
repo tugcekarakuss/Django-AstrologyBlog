@@ -9,10 +9,6 @@ Bu proje, Django ile geliştirilen bir astroloji blogudur. Proje, kullanıcılar
 - **Django Admin Paneli**: İçerik yönetimi için güçlü bir admin paneli.
 - **Modern Tasarım**: Kullanıcı dostu ve modern bir arayüz sunulmak üzere çalışmalarım sürüyor.
 
-## Kurulum
-
-Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları takip edebilirsiniz.
-
 ### Gerekli Bağımlılıklar
 
 Bu projeyi çalıştırmadan önce sisteminizde aşağıdaki araçların kurulu olduğundan emin olun:
