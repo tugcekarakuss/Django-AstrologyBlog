@@ -21,8 +21,8 @@ Bu projeyi çalıştırmadan önce sisteminizde aşağıdaki araçların kurulu 
 - Django
 - Git
 
-### Adım 1: Projeyi Klonlayın
-
-```bash
-git clone https://github.com/kullaniciadi/astroloji-blogu.git
-cd astroloji-blogu
+## Kullanım
+###Ana Sayfa:### Tüm blog içeriklerini listeler.
+Kategoriler: Belirli bir kategoriyi seçerek içerikleri filtreleyebilirsiniz.
+Yönetim Paneli: İçerikleri yönetmek için /admin yolunu kullanabilirsiniz.
+Katkıda Bulunma
