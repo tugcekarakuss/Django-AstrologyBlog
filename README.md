@@ -6,8 +6,8 @@ Bu proje, Django ile geliştirilen bir astroloji blogudur. Proje, kullanıcılar
 
 - **Dinamik İçerik Çekme**: Blog içerikleri dinamik olarak veri tabanından çekilmektedir.
 - **Kategorilere Göre Filtreleme**: Kullanıcılar, içerikleri belirli kategorilere göre filtreleyebilir.
-- **Modern Tasarım**: Kullanıcı dostu ve modern bir arayüz sunar.
 - **Django Admin Paneli**: İçerik yönetimi için güçlü bir admin paneli.
+- **Modern Tasarım**: Kullanıcı dostu ve modern bir arayüz sunulmak üzere çalışmalarım sürüyor.
 
 ## Kurulum
 
