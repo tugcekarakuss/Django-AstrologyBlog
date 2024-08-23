@@ -22,7 +22,7 @@ Bu projeyi çalıştırmadan önce sisteminizde aşağıdaki araçların kurulu 
 - Git
 
 ## Kullanım
--**Ana Sayfa**:Tüm blog içeriklerini listeler.
--**Kategoriler**: Belirli bir kategoriyi seçerek içerikleri filtreleyebilirsiniz.
--**Yönetim Paneli**: İçerikleri yönetmek için /admin yolunu kullanabilirsiniz.
--**Proje Çalıştırma**:```python manage.py runserver``` kod satırını terminalde çalıştırarak projeye tarayıcınızdan http://127.0.0.1:8000/ adresine giderek erişebilirsiniz.
+- **Ana Sayfa**:Tüm blog içeriklerini listeler.
+- **Kategoriler**: Belirli bir kategoriyi seçerek içerikleri filtreleyebilirsiniz.
+- **Yönetim Paneli**: İçerikleri yönetmek için /admin yolunu kullanabilirsiniz.
+- **Proje Çalıştırma**: ```python manage.py runserver``` kod satırını terminalde çalıştırarak projeye tarayıcınızdan http://127.0.0.1:8000/ adresine giderek erişebilirsiniz.
