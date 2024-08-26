@@ -2,6 +2,8 @@
 
 Bu proje, Django ile geliştirilen bir astroloji blogudur. Proje, kullanıcıların astroloji ile ilgili yazıları dinamik olarak görüntüleyebilmesi, kategorilere göre filtreleyebilmesi ve blog içeriklerini keşfedebilmesi için tasarlanmıştır.
 
+![Açıklama](https://github.com/tugcekarakuss/Django-AstrologyBlog/raw/main/site-resimi.jpg)
+
 
 ## Özellikler
 
